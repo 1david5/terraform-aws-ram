@@ -1,3 +1,4 @@
+<!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Requirements
 
 No requirements.
@@ -24,3 +25,4 @@ No requirements.
 |------|-------------|
 | resource\_share\_arn | ARN of the resource share |
 
+<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
